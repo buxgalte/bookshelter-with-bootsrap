@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "image",
+			"path": "../../2oy/bookshelter/image"
+		},
+		{
+			"name": "book shelter with bootsrap",
+			"path": "."
+		},
+		{
+			"path": "../../bookshelter-booststrap"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
